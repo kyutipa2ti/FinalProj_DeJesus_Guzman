@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<officials>
+  <user>
+    <employee_number>20221001</employee_number>
+    <position>Faculty</position>
+    <first_name>Marco</first_name>
+    <last_name>De Jesus</last_name>
+    <department>Sciences</department>
+    <contact>09927894634</contact>
+    <image>uploads/68306fcbbe0eb_marco.jpg</image>
+  </user>
+  <user>
+    <employee_number>20221002</employee_number>
+    <position>Faculty</position>
+    <first_name>Micaella</first_name>
+    <last_name>Del Rosario</last_name>
+    <department>Sciences</department>
+    <contact>091234678987</contact>
+    <image>uploads/6830705f0989d_png-clipart-aspria-fitness-computer-icons-user-my-account-icon-miscellaneous-monochrome-removebg-preview.png</image>
+    <middle_name/>
+  </user>
+  <user>
+    <employee_number>20221003</employee_number>
+    <position>Faculty</position>
+    <first_name>Aubrey</first_name>
+    <last_name>Guzman</last_name>
+    <department>Education</department>
+    <contact>09675835671</contact>
+    <image>uploads/68306fd3de331_aubrey.jpg</image>
+    <middle_name/>
+  </user>
+  <user>
+    <employee_number>20221004</employee_number>
+    <first_name>Lewis</first_name>
+    <last_name>Saporteza</last_name>
+    <position>Faculty</position>
+    <department>Engineering</department>
+    <contact>0967758543</contact>
+    <image>uploads/683094206d7f6_12107ac0-bcd3-4caa-943f-a169c62b1d34.jfif</image>
+    <middle_name>Guzman</middle_name>
+  </user>
+  <user>
+    <employee_number>20221005</employee_number>
+    <position>Dean</position>
+    <first_name>Liam</first_name>
+    <last_name>Saporteza</last_name>
+    <department>Health Sciences</department>
+    <contact>09189212767</contact>
+    <image>uploads/6830941377a28_466135901_10230158085168870_314904098706869256_n.jpg</image>
+    <middle_name>Guzman</middle_name>
+  </user>
+  <user>
+    <employee_number>20221007</employee_number>
+    <position>Faculty</position>
+    <first_name>Luis Aldrin</first_name>
+    <last_name>Viray</last_name>
+    <department>Sciences</department>
+    <contact>09778564321</contact>
+    <image>uploads/683099584883b_Untitled design (76).png</image>
+    <middle_name/>
+  </user>
+  <user>
+    <employee_number>20221008</employee_number>
+    <position>Dean</position>
+    <first_name>Cielo</first_name>
+    <last_name>Maroma</last_name>
+    <department>Business</department>
+    <contact>09678453211</contact>
+    <image>uploads/6830997a6323a_Untitled design (77).png</image>
+    <middle_name/>
+  </user>
+  <user>
+    <employee_number>20221009</employee_number>
+    <position>Project Manager</position>
+    <first_name>Mary Allyson</first_name>
+    <last_name>Caba</last_name>
+    <department>Health Sciences</department>
+    <contact>09678955678</contact>
+    <image>uploads/6830999b14060_Untitled design (79).png</image>
+    <middle_name/>
+  </user>
+  <user>
+    <employee_number>202210014</employee_number>
+    <position>Dean</position>
+    <first_name>Manuela</first_name>
+    <last_name>Guzman</last_name>
+    <department>Education</department>
+    <contact>09234678555</contact>
+    <image>uploads/6832e55786bd5_464009511_10229769212727302_1807587723006788711_n.jpg</image>
+    <middle_name>Guzman</middle_name>
+  </user>
+  <user>
+    <employee_number>202210015</employee_number>
+    <position>Faculty</position>
+    <first_name>Gilbert</first_name>
+    <last_name>Guzman</last_name>
+    <department>Engineering</department>
+    <contact>09675543211</contact>
+    <image>uploads/6832e543cf1a7_463112122_10229696396226935_4158961068980962871_n.jpg</image>
+    <middle_name>Bantog</middle_name>
+  </user>
+  <user>
+    <employee_number>2022100727</employee_number>
+    <position>Research Staff</position>
+    <first_name>John Lester</first_name>
+    <middle_name/>
+    <last_name>Sta. Ana</last_name>
+    <department>Sciences</department>
+    <contact>09788654112</contact>
+    <image>uploads/default.jpg</image>
+  </user>
+  <user>
+    <employee_number>20231001</employee_number>
+    <position>Administrative Staff</position>
+    <first_name>John Daryl</first_name>
+    <middle_name>Patiga</middle_name>
+    <last_name>Cruz</last_name>
+    <department>Engineering</department>
+    <contact>09788906678</contact>
+    <image>uploads/default.jpg</image>
+  </user>
+  <user>
+    <employee_number>20231013</employee_number>
+    <position>Support Staff</position>
+    <first_name>Princess Sophia Lee</first_name>
+    <middle_name>Flores</middle_name>
+    <last_name>Bayan</last_name>
+    <department>Education</department>
+    <contact>09100673345</contact>
+    <image>uploads/6831e24ac264c_Bayan, P (1).JPG</image>
+  </user>
+  <user>
+    <employee_number>20241892</employee_number>
+    <position>Professor</position>
+    <first_name>Myles</first_name>
+    <middle_name>Guzman</middle_name>
+    <last_name>Saporteza</last_name>
+    <department>Humanities</department>
+    <contact>09189675432</contact>
+    <image>uploads/6832c03543ed0_458359587_10229267476664214_7389046635109531402_n.jpg</image>
+  </user>
+  <user>
+    <employee_number>2022100726</employee_number>
+    <position>Professor</position>
+    <first_name>Miyuki Angel</first_name>
+    <middle_name/>
+    <last_name>Ando</last_name>
+    <department>Sciences</department>
+    <contact>09178765432</contact>
+    <image>uploads/default.jpg</image>
+  </user>
+  <user>
+    <employee_number>20221818</employee_number>
+    <position>Administrative Staff</position>
+    <first_name>Lance Louise</first_name>
+    <middle_name/>
+    <last_name>Estrella</last_name>
+    <department>Information Technology</department>
+    <contact>09787654541</contact>
+    <image>uploads/default.jpg</image>
+  </user>
+  <user>
+    <employee_number>2022100777</employee_number>
+    <position>Dean</position>
+    <first_name>Dannielle</first_name>
+    <middle_name/>
+    <last_name>Aquino</last_name>
+    <department>Information Technology</department>
+    <contact>09678241532</contact>
+    <image>uploads/default.jpg</image>
+  </user>
+  <user>
+    <employee_number>20221772</employee_number>
+    <position>Professor</position>
+    <first_name>Harrold Adrian</first_name>
+    <middle_name/>
+    <last_name>Muncal</last_name>
+    <department>Engineering</department>
+    <contact>09811452312</contact>
+    <image>uploads/6832c72b4307e_Muncal, H (1).JPG</image>
+  </user>
+  <user>
+    <employee_number>2022888</employee_number>
+    <position>Professor</position>
+    <first_name>Eugene Claire</first_name>
+    <middle_name>Belen</middle_name>
+    <last_name>Espino</last_name>
+    <department>Social Sciences</department>
+    <contact>09787565111</contact>
+    <image>uploads/6832c77027c07_Espino, E (1).JPG</image>
+  </user>
+  <user>
+    <employee_number>2022100886</employee_number>
+    <position>Support Staff</position>
+    <first_name>Lady Althea</first_name>
+    <middle_name/>
+    <last_name>Espiritu</last_name>
+    <department>Education</department>
+    <contact>09765112341</contact>
+    <image>uploads/6832c798c506b_Espiritu, L (2).JPG</image>
+  </user>
+  <user>
+    <employee_number>2022717</employee_number>
+    <position>Faculty</position>
+    <first_name>Robert Jeriko</first_name>
+    <middle_name/>
+    <last_name>Reyes</last_name>
+    <department>Information Technology</department>
+    <contact>09109855761</contact>
+    <image>uploads/6832c7e60dc9a_Untitled design (58).png</image>
+  </user>
+</officials>

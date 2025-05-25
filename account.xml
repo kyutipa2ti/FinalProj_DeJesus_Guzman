@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <first_name>Admin</first_name>
+    <last_name>Admin</last_name>
+    <email>admin@email.com</email>
+    <password>admin</password>
+  </user>
+  <user>
+    <first_name>Justine</first_name>
+    <last_name>De Guzman</last_name>
+    <email>justine@email.com</email>
+    <password>staff</password>
+  </user>
+  <user>
+    <first_name>Fyang</first_name>
+    <last_name>Morris</last_name>
+    <email>fyang@email.com</email>
+    <password>staff</password>
+  </user>
+</users>
