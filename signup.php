@@ -1,7 +1,6 @@
 <?php
 $message = "";
 
-// XML file paths
 $accountXmlFile = 'account.xml';
 $mainXmlFile = 'main.xml';
 
@@ -12,14 +11,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $password = trim($_POST['password'] ?? '');
 
     if ($firstName && $lastName && $email && $password) {
-        // Load or create account.xml
         if (file_exists($accountXmlFile)) {
             $accountXml = simplexml_load_file($accountXmlFile);
         } else {
             $accountXml = new SimpleXMLElement('<users></users>');
         }
 
-        // Check for duplicate email or full name
         $duplicate = false;
         foreach ($accountXml->user as $existingUser) {
             $existingEmail = (string)$existingUser->email;
@@ -35,12 +32,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($duplicate) {
             $message = "❌ Email or full name already exists.";
         } else {
-            // Save to account.xml
             $user = $accountXml->addChild('user');
             $user->addChild('first_name', $firstName);
             $user->addChild('last_name', $lastName);
             $user->addChild('email', $email);
-            $user->addChild('password', $password); // NOTE: Consider using password_hash()
+            $user->addChild('password', $password); 
 
             $domAccount = new DOMDocument('1.0');
             $domAccount->preserveWhiteSpace = false;
