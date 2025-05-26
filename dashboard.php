@@ -176,7 +176,6 @@ if (file_exists($xmlFile)) {
 </head>
 <body>
 
-<!-- Navbar -->
 <div class="navbar">
     <div class="logo">
         <img src="bilog.png" alt="Logo" />
@@ -203,26 +202,22 @@ if (file_exists($xmlFile)) {
 
 <h1><i class='bx bx-bar-chart-alt'></i> School Users Dashboard</h1>
 
-<!-- Total Users Card -->
 <div class="card-container">
     <i class='bx bx-user' style="font-size: 32px; color: #007BFF;"></i>
     <div style="margin-top: 8px; font-weight: 500; color: #555;">Total Users</div>
     <div class="number"><?= $totalUsers ?></div>
 </div>
 
-<!-- Department Chart -->
 <div class="chart-container">
     <h2>Users by Department</h2>
     <canvas id="departmentChart"></canvas>
 </div>
 
-<!-- Position Chart -->
 <div class="chart-container">
     <h2>Users by Position</h2>
     <canvas id="positionChart"></canvas>
 </div>
 
-<!-- Back Button -->
 <div class="back-button">
     <a href="LandingPage.php"><i class='bx bx-arrow-back'></i> Back to Home</a>
 </div>
