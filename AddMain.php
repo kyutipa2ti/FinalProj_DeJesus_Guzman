@@ -349,7 +349,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </select>
 
         <label for="contact">Contact Number</label>
-        <input type="text" name="contact" id="contact" required>
+        <input type="number" name="contact" id="contact" required>
 
         <label for="image">Upload Image</label>
         <input type="file" name="image" id="image" accept="image/*">
