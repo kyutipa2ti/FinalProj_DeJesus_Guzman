@@ -85,7 +85,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
 
     <style>
-        /* Navbar styles from your about.php */
         html, body {
             margin: 0;
             padding: 0;
@@ -163,7 +162,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             color: white;
         }
 
-        /* Form container and content */
         .form-container {
             background: white;
             padding: 30px;
