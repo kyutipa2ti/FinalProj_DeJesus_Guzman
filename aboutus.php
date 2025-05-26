@@ -8,7 +8,6 @@ session_start();
     <title>About Us - School Directory</title>
     <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
     <style>
-        /* Reset margin, padding, and prevent horizontal scroll */
         html, body {
             margin: 0;
             padding: 0;
@@ -22,7 +21,6 @@ session_start();
             min-height: 100vh;
         }
 
-        /* NAVBAR */
         .navbar {
             display: flex;
             justify-content: space-between;
@@ -87,10 +85,9 @@ session_start();
             color: white;
         }
 
-        /* CONTENT */
         .content {
             background-color: white;
-            padding: 30px 20px; /* Add padding here, since body has none */
+            padding: 30px 20px; 
             border-radius: 12px;
             max-width: 1000px;
             margin: auto;
@@ -256,7 +253,6 @@ session_start();
 </head>
 <body>
 
-<!-- Navbar -->
 <div class="navbar">
     <div class="logo">
         <img src="bilog.png" alt="Logo">
@@ -281,12 +277,10 @@ session_start();
     </div>
 </div>
 
-<!-- Team Section -->
 <div class="content">
     <h2>OUR TEAM</h2>
 
     <div class="card-row">
-        <!-- Card 1 -->
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
@@ -300,7 +294,6 @@ session_start();
             </div>
         </div>
 
-        <!-- Card 2 -->
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
@@ -316,7 +309,6 @@ session_start();
     </div>
 </div>
 
-<!-- Footer -->
 <footer class="custom-footer">
     <div class="footer-content">
         <div class="left">
